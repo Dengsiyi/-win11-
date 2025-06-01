@@ -1,0 +1,12 @@
+{
+    "hotkeys": {
+        "record_toggle": "F9",
+        "play_toggle": "F10",
+        "new_script": "Control-n",
+        "open_script": "Control-o",
+        "save_script": "Control-s",
+        "save_as_script": "Control-Shift-s",
+        "stop_all": "Escape"
+    },
+    "global_hotkeys": true
+}
